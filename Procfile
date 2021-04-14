@@ -1,1 +1,1 @@
-web: run Emil's_bot.py
+worker: python bot.py
